@@ -1,0 +1,6 @@
+com/pvthuan/SpringAngularApplication.class
+com/pvthuan/model/Book.class
+com/pvthuan/controller/BookController.class
+com/pvthuan/dao/BookDAO.class
+com/pvthuan/service/BookService.class
+com/pvthuan/controller/IndexController.class
